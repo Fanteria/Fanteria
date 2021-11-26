@@ -12,6 +12,21 @@ I'm Jiří, but peoples call me Fanteria. I’m currently working on finish my s
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br>
+<a href="">
+<img align="left" alt="Fanteria Discord" width="20px" src="svg/stackoverflow.svg" />
+</a>
+<a href="">
+<img align="left" alt="Fanteria Discord" width="20px" src="svg/discord.svg" />
+</a>
+<a href="">
+<img align="left" alt="Fanteria LinkedIn" width="20px" src="svg/linkedin.svg" />
+</a>
+<a href="">
+<img align="left" alt="Fanteria Spotify" width="20px" src="svg/spotify.svg" />
+</a>
+
+<br>
 
 [![Visits](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)
 

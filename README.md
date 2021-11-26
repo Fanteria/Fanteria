@@ -13,7 +13,7 @@ I'm Jiří, but peoples call me Fanteria. I’m currently working on finish my s
 - ⚡ Fun fact: ...
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)
+[![Visits](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)
 
 ## 💻 Technologies
 <p align="center">

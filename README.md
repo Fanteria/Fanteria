@@ -1,6 +1,5 @@
 # Hello world. :wave:
-
-I'm Jiří, but peoples call me Fanteria. I’m currently working on finishing my study, that's mean, I'm actually learning everything. 🌱 I'm focusing on setup Linux servers or desktops and developing server backgrounds. But don't ask me about it, I do not know much, I'm still learning it too. In my free time, I love to ricing my Linux desktop, playing a guitar and mineralogi.
+My name is Jiří, but people call me Fanteria. Presently I am working on finishing my master's degree, which means, that I am currently learning with help. 🌱 My specialization is setup of Linux servers and desktops, and also development of server backends. But don't ask me about it, I am no pro, learning everything on the go. In my free time, I love to rice my Linux desktop, play a guitar and everything about mineralogy (_mostly collecting nice looking rocks_).
 
 
 You can reach me also on:

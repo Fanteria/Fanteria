@@ -10,7 +10,7 @@ You can reach me also on:
 <a href="https://discord.gg/f23AeHVUtT">
 <img align="left" alt="Fanteria Discord" width="20px" src="svg/discord.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/ji%C5%99%C3%AD-alexandrovi%C4%8D-591397228/">
 <img align="left" alt="Fanteria LinkedIn" width="20px" src="svg/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/u7rcijvodrv8jy30apal7p0vy">

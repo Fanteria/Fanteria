@@ -17,6 +17,7 @@ You can reach me also on:
 <img align="left" alt="Fanteria Spotify" width="20px" src="svg/spotify.svg" />
 </a>
 <br>
+<br>
 
 [![Visits](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)
 

@@ -4,9 +4,6 @@ My name is Jiří, but people call me Fanteria. Presently I am working on finish
 
 You can reach me also on:
 
-<a href="https://stackoverflow.com/users/7027485/ji%C5%99%C3%AD-alexandrovi%C4%8D">
-<img align="left" alt="Fanteria Stack Overflow" width="20px" src="svg/stackoverflow.svg" />
-</a>
 <a href="https://discord.gg/f23AeHVUtT">
 <img align="left" alt="Fanteria Discord" width="20px" src="svg/discord.svg" />
 </a>
@@ -15,6 +12,9 @@ You can reach me also on:
 </a>
 <a href="https://open.spotify.com/user/u7rcijvodrv8jy30apal7p0vy">
 <img align="left" alt="Fanteria Spotify" width="20px" src="svg/spotify.svg" />
+</a>
+<a href="https://stackoverflow.com/users/7027485/ji%C5%99%C3%AD-alexandrovi%C4%8D">
+<img align="left" alt="Fanteria Stack Overflow" width="20px" src="svg/stackoverflow.svg" />
 </a>
 <br>
 <br>

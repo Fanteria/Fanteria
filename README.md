@@ -1,20 +1,20 @@
 # Hello world. :wave:
 
-I'm Jiří, but peoples call me Fanteria. I’m currently working on finishing my study, that's mean, I'm actually learning everything.  I'm focusing on setup Linux servers or desktops and developing server backgrounds. But don't ask me about it, I do not know much, I'm still learning it too. In my free time, I love to ricing my Linux desktop and playing the guitar.
+I'm Jiří, but peoples call me Fanteria. I’m currently working on finishing my study, that's mean, I'm actually learning everything.  I'm focusing on setup Linux servers or desktops and developing server backgrounds. But don't ask me about it, I do not know much, I'm still learning it too. In my free time, I love to ricing my Linux desktop, playing a guitar and mineralogi.
 
 
 You can reach me also on:
 
-<a href="">
-<img align="left" alt="Fanteria Discord" width="20px" src="svg/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/7027485/ji%C5%99%C3%AD-alexandrovi%C4%8D">
+<img align="left" alt="Fanteria Stack Overflow" width="20px" src="svg/stackoverflow.svg" />
 </a>
-<a href="">
+<a href="https://discord.gg/f23AeHVUtT">
 <img align="left" alt="Fanteria Discord" width="20px" src="svg/discord.svg" />
 </a>
 <a href="">
 <img align="left" alt="Fanteria LinkedIn" width="20px" src="svg/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://open.spotify.com/user/u7rcijvodrv8jy30apal7p0vy">
 <img align="left" alt="Fanteria Spotify" width="20px" src="svg/spotify.svg" />
 </a>
 <br>

@@ -1,18 +1,10 @@
-# Hello world :wave:
+# Hello world. :wave:
 
-I'm Jiří, but peoples call me Fanteria. I’m currently working on finish my study.
+I'm Jiří, but peoples call me Fanteria. I’m currently working on finishing my study, that's mean, I'm actually learning everything.  I'm focusing on setup Linux servers or desktops and developing server backgrounds. But don't ask me about it, I do not know much, I'm still learning it too. In my free time, I love to ricing my Linux desktop and playing the guitar.
 
 
-- 🔭 I’m currently working on finish my study.
-- 🌱 I’m currently learning everything, because I'm student. :book:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can reach me also on:
 
-<br>
 <a href="">
 <img align="left" alt="Fanteria Discord" width="20px" src="svg/stackoverflow.svg" />
 </a>
@@ -25,7 +17,6 @@ I'm Jiří, but peoples call me Fanteria. I’m currently working on finish my s
 <a href="">
 <img align="left" alt="Fanteria Spotify" width="20px" src="svg/spotify.svg" />
 </a>
-
 <br>
 
 [![Visits](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)

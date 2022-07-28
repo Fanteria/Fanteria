@@ -41,6 +41,7 @@ You can reach me also on:
   <img src="https://img.shields.io/badge/-Arch linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch linux">
   <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/-GNU Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="GNU Bash">
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 </p>
 
   

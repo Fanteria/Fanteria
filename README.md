@@ -19,8 +19,6 @@ You can reach me also on:
 <br>
 <br>
 
-[![Visits](https://badges.pufler.dev/visits/Fanteria/Fanteria)](https://badges.pufler.dev)
-
 ## 💻 Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">

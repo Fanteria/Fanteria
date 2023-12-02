@@ -22,9 +22,6 @@ You can reach me also on:
 <p align="center">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/-Rust-F46623?style=flat-square&logo=rust&logoColor=white" alt="Rust">
